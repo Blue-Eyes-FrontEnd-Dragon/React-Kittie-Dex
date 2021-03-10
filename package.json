@@ -2,7 +2,7 @@
   "name": "kittens-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Blue-Eyes-FrontEnd-Dragon.github.io/react-kittie-dex",
+  "homepage": "https://blue-eyes-frontend-dragon.github.io/React-Kittie-Dex/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
