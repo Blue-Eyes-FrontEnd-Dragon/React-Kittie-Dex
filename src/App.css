@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Zeyada', cursive;
+  font-size: 62px;
+  color: #cf95da;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

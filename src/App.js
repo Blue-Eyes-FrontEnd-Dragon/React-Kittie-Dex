@@ -18,7 +18,7 @@ class App extends Component {
     .then(users => this.setState({ kittens: users }));
   }
 
-  handleChange = (e) => {
+  handleChange = e => {
     this.setState({
       searchField: e.target.value
     })
@@ -32,6 +32,7 @@ class App extends Component {
     
     return (
       <div className='App'>
+        <h1> Kittie-Dex </h1>
         <SearchBox 
           type='search'
           placeholder='search kitties...'
